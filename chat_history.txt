@@ -1,0 +1,33 @@
+You: hi
+Bot: Hello! Tell me your name.
+
+You: kisha
+Bot: I don't understand. Type HELP.
+
+You: hello
+Bot: Hello! Tell me your name.
+
+You: name
+Bot: I don't understand. Type HELP.
+
+You: how are you
+Bot: I am working perfectly.
+
+You: my name is kisha
+Bot: Nice to meet you Kisha
+
+You: date
+Bot: Today's Date: 22-06-2026
+
+You: motivate me
+Bot: Keep learning. Small progress matters.
+
+You: sad
+Bot: Things can improve. Keep going.
+
+You: count
+Bot: You sent 12 messages.
+
+You: bye
+Bot: Goodbye! Chat saved.
+
